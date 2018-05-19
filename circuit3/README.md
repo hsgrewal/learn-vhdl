@@ -1,7 +1,7 @@
 # Circuit 3
 
 VHDL code for the Boolean equation:
-`F(X,Y,Z,W) = &#8721 *m*(0,2,5,7,8,10,13,15)`
+> F(X,Y,Z,W) = E*m*(0,2,5,7,8,10,13,15)
 
 ## Truth Table
 |  X  |  Y  |  Z  |  W  |  F  |
